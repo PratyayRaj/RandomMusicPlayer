@@ -16,4 +16,4 @@ The Output will look like this:-
 
 ![java random music output](https://user-images.githubusercontent.com/109647311/195970199-ed37cfc2-590b-4653-8721-a67302028220.png)
 
-and enjoy listning songs.
+and enjoy listening songs.
